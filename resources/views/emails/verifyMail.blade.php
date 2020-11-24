@@ -7,7 +7,7 @@
     <div>
 	 <p>{{ $details['name'] }}</p>
 
-	 <p>Thank you</p>
+	 <p>Thank You For Use</p>
     </div>
 </body>
 </html>
